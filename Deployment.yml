@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactbackendcontainer
-      image: contact_backend_app
+      image: kehindeojewunmi/contact_backend 
       ports:
       - containerPort: 8080
 ---
